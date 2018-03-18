@@ -1,0 +1,24 @@
+* 
+{ 
+    padding: 0;
+    margin: 0;
+    font-family:Trebuchet MS;
+}
+canvas 
+{ 
+    background: #4DD0E1;
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px;
+    border: #B2FF59 solid 10px;
+}
+
+h1
+{
+    border: 10px solid #B2FF59;
+    color: #4DD0E1;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    width: 880px;
+}
