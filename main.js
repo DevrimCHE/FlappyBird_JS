@@ -120,7 +120,7 @@ function checkKey(e)
 
     if (e.keyCode == '27')
     {
-        alert("Esc' ye Basınca Oyun Durmuyor Gerizekalı");
+        alert("Duraklatıldı");
     }
     else if (e.keyCode == '32')
     {
